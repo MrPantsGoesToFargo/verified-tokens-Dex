@@ -3094,5 +3094,11 @@
     "is_verified": true,
     "ticker": "VEN",
     "decimals": 0
-  }
-}
+  },
+  "1d67b4b697a4ed495869947c7015eadbeed65a324eb24426820dc774": {
+    "token_id": "1d67b4b697a4ed495869947c7015eadbeed65a324eb24426820dc774",
+    "token_policy": "1d67b4b697a4ed495869947c7015eadbeed65a324eb24426820dc774",
+    "token_ascii": "PepesDad",
+    "is_verified": true,
+    "ticker": "PepesDad",
+    "decimals": 0
